@@ -16,6 +16,9 @@ pnpm install
 
 ## Usage
 
+Fisrt : set your binance apiKey & apiSecret into ./binance-bash/config.json
+
+then run script:
 ```sh
 npm run cost -type ETHUSDT
 ```
