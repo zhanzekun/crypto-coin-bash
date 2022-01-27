@@ -1,0 +1,14 @@
+{
+  "name": "crypto-coin-bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "scripts": {
+    "cost": "node ./binance-bash/queryMyHoldingCost.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
