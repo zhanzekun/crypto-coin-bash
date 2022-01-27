@@ -11,7 +11,7 @@
 ## Install
 
 ```sh
-npm install
+pnpm install
 ```
 
 ## Usage
